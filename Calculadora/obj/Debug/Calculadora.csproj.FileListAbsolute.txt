@@ -8,3 +8,15 @@ C:\GitHub\C-Sharp\Meu Dojo C#\Calculadora\Calculadora\obj\Debug\Calculadora.cspr
 C:\GitHub\C-Sharp\Meu Dojo C#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
 C:\GitHub\C-Sharp\Meu Dojo C#\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\GitHub\C-Sharp\Meu Dojo C#\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\codex99\Downloads\Calculadora-main\Calculadora-main\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\codex99\Downloads\Calculadora-main\Calculadora-main\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\codex99\Downloads\Calculadora-main\Calculadora-main\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\codex99\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\codex99\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\codex99\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\codex99\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\codex99\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\codex99\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\codex99\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\codex99\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\codex99\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\Calculadora.Form2.resources
