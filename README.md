@@ -1,5 +1,5 @@
 # Calculadora
- Calculadora construida em C#
+ Calculadora construida em C# com possibilidade de exibir o historico.
  
  <p>faz calculos basicos como:</p>
  <div>- Adição</div>
